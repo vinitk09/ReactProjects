@@ -25,9 +25,9 @@ This is a React-based web application that provides a Whole Slide Image (WSI) vi
    cd WSIImageSlider
    ```
 3. Install the dependencies:
-```bash
-npm install
-```
+   ```bash
+   npm install
+    ```
 4. Start the development server
    ```bash
    npm run dev

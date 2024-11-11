@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* OpenSeadragon customizations */
+.openseadragon-container {
+  background: #f9fafb !important;
+}

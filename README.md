@@ -19,6 +19,20 @@ This is a React-based web application that provides a Whole Slide Image (WSI) vi
 1. Clone the repository:
    ```bash
    git clone https://github.com/vinitk09/ReactProjects.git
-   ````
+   ```
 2. Navigate to the project directory:
+   ```bash
+   cd WSIImageSlider
+   ```
+3. Install the dependencies:
+```bash
+npm install
+```
+4. Start the development server
+   ```bash
+   npm run dev
+```
+
+   
+
 
